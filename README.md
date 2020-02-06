@@ -1,3 +1,5 @@
+This repository now lives on https://github.com/pug-php/pug-symfony
+
 # Pug-Symfony
 [![Latest Stable Version](https://poser.pugx.org/pug-php/pug-symfony/v/stable.png)](https://packagist.org/packages/pug-php/pug-symfony)
 [![Build Status](https://travis-ci.org/pug-php/pug-symfony.svg?branch=master)](https://travis-ci.org/pug-php/pug-symfony)
